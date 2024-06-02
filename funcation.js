@@ -1,5 +1,5 @@
 
-// 1. Function Def
+// 1. Function Definitions
 function add(num1, num2) {
     return num1 + num2;
 }

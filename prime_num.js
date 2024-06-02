@@ -13,14 +13,15 @@ function isPrime(num) {
         }
     }
 
-    // If no factors were found, the number is prime
+    
     return true;
 }
 
-// Example usage
+//For Instance 
 let num = 13; // Change this number to check other numbers
 if (isPrime(num)) {
     console.log(num + " is a prime number.");
 } else {
     console.log(num + " is not a prime number.");
 }
+function isPrime()
